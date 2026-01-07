@@ -57,13 +57,13 @@ The model uses a fully connected neural network with the following architecture:
 
 ## 🌐 Live Demo
 
-**Try it now:** [Health Insurance Cost Predictor]([your-huggingface-space-link](https://huggingface.co/spaces/ksukheja/health-insurance-cost-predictor)) 🚀
+**Try it now:** [Health Insurance Cost Predictor](https://huggingface.co/spaces/ksukheja/health-insurance-cost-predictor) 🚀
 
 Experience the model instantly without any setup! The application is deployed on Hugging Face Spaces.
 
 ### How to Use:
 1. Adjust the input features (Age, BMI, Gender, etc.)
-2. Click "Predict Insurance Cost" to get your insurance cost estimate
+2. Click "Predict" to get your insurance cost estimate
 3. Results are displayed in USD with formatted currency
 
 > 💡 **Note**: Predictions are estimates based on the trained model and should not be considered official insurance quotes.
@@ -118,14 +118,6 @@ health-insurance-cost-predictor/
 ├── README.md                       # Project documentation
 └── .gitignore                      # Git ignore file
 ```
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- 🐛 Report bugs
-- 💡 Suggest features
-- 🔧 Submit pull requests
 
 ---
 
@@ -140,9 +132,9 @@ MIT License - see [LICENSE](LICENSE) for details.
 **Komal Sukheja**
 
 [![GitHub](https://img.shields.io/badge/GitHub-komal--sukheja-181717?style=flat&logo=github)](https://github.com/komal-sukheja)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/komal-sukheja/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/komal-sukheja/)
 
-📧 Email: komalsukheja2001@gmail.com
+Email: komalsukheja2001@gmail.com
 ---
 
 <div align="center">
